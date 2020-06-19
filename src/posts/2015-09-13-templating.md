@@ -159,7 +159,7 @@ Since we know what template engines does now, lets move on and learn how use a t
 
 ## Using a template engine with Gulp
 
-Before we move on and create a gulp task that uses a template engine, let's look at a list of popular template engines that Gulp is able to use (Note: They're all JavaScript based templat engines).
+Before we move on and create a gulp task that uses a template engine, let's look at a list of popular template engines that Gulp is able to use (Note: They're all JavaScript based template engines).
 
 Here's the list in alphabetical order:
 
